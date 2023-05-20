@@ -20,8 +20,4 @@ Working on a website called Influencemachine.org. This project aims to implement
 
 Feel free to reach out to me if you have any questions or would like to collaborate!
 
-## 📫 Get in touch
-
-- LinkedIn: [Your LinkedIn Profile URL]
-- Twitter: [Your Twitter Profile URL]
 
