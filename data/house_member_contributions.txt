@@ -1,0 +1,882 @@
+Name: Alma Adams
+Party: D
+Name: Robert Aderholt
+Party: R
+Name: Pete Aguilar
+Party: D
+Name: Mark Alford
+Party: R
+Name: Rick Allen
+Party: R
+Name: Colin Allred
+Party: D
+Name: Mark Amodei
+Party: R
+Name: Kelly Armstrong
+Party: R
+Name: Jodey Arrington
+Party: R
+Name: Jake Auchincloss
+Party: D
+Name: Brian Babin
+Party: R
+Name: Don Bacon
+Party: R
+Name: James Baird
+Party: R
+Name: Troy Balderson
+Party: R
+Name: Becca Balint
+Party: D
+Name: Jim Banks
+Party: R
+Name: Andy Barr
+Party: R
+Name: Nanette Barragán
+Party: D
+Name: Aaron Bean
+Party: R
+Name: Joyce Beatty
+Party: D
+Name: Cliff Bentz
+Party: R
+Name: Ami Bera
+Party: D
+Name: Jack Bergman
+Party: R
+Name: Donald Beyer
+Party: D
+Name: Stephanie Bice
+Party: R
+Name: Andy Biggs
+Party: R
+Name: Gus Bilirakis
+Party: R
+Name: Sanford Bishop
+Party: D
+Name: Dan Bishop
+Party: R
+Name: Earl Blumenauer
+Party: D
+Name: Lisa Blunt Rochester
+Party: D
+Name: Lauren Boebert
+Party: R
+Name: Suzanne Bonamici
+Party: D
+Name: Mike Bost
+Party: R
+Name: Jamaal Bowman
+Party: D
+Name: Brendan Boyle
+Party: D
+Name: Josh Brecheen
+Party: R
+Name: Shontel Brown
+Party: D
+Name: Julia Brownley
+Party: D
+Name: Vern Buchanan
+Party: R
+Name: Ken Buck
+Party: R
+Name: Larry Bucshon
+Party: R
+Name: Nikki Budzinski
+Party: D
+Name: Tim Burchett
+Party: R
+Name: Michael Burgess
+Party: R
+Name: Eric Burlison
+Party: R
+Name: Cori Bush
+Party: D
+Name: Ken Calvert
+Party: R
+Name: Kat Cammack
+Party: R
+Name: Yadira Caraveo
+Party: D
+Name: Salud Carbajal
+Party: D
+Name: Tony Cárdenas
+Party: D
+Name: Mike Carey
+Party: R
+Name: Jerry Carl
+Party: R
+Name: André Carson
+Party: D
+Name: Troy Carter
+Party: D
+Name: Buddy Carter
+Party: R
+Name: John Carter
+Party: R
+Name: Matt Cartwright
+Party: D
+Name: Greg Casar
+Party: D
+Name: Ed Case
+Party: D
+Name: Sean Casten
+Party: D
+Name: Kathy Castor
+Party: D
+Name: Joaquín Castro
+Party: D
+Name: Lori Chavez-DeRemer
+Party: R
+Name: Sheila Cherfilus-McCormick
+Party: D
+Name: Judy Chu
+Party: D
+Name: David Cicilline
+Party: D
+Name: Juan Ciscomani
+Party: R
+Name: Katherine Clark
+Party: D
+Name: Yvette Clarke
+Party: D
+Name: Emanuel Cleaver
+Party: D
+Name: Ben Cline
+Party: R
+Name: Michael Cloud
+Party: R
+Name: James Clyburn
+Party: D
+Name: Andrew Clyde
+Party: R
+Name: Steve Cohen
+Party: D
+Name: Tom Cole
+Party: R
+Name: Mike Collins
+Party: R
+Name: James Comer
+Party: R
+Name: Gerald Connolly
+Party: D
+Name: J. Correa
+Party: D
+Name: Jim Costa
+Party: D
+Name: Joe Courtney
+Party: D
+Name: Angie Craig
+Party: D
+Name: Eli Crane
+Party: R
+Name: Rick Crawford
+Party: R
+Name: Dan Crenshaw
+Party: R
+Name: Jasmine Crockett
+Party: D
+Name: Jason Crow
+Party: D
+Name: Henry Cuellar
+Party: D
+Name: John Curtis
+Party: R
+Name: Anthony D'Esposito
+Party: R
+Name: Sharice Davids
+Party: D
+Name: Warren Davidson
+Party: R
+Name: Donald Davis
+Party: D
+Name: Danny Davis
+Party: D
+Name: Mónica De La Cruz
+Party: R
+Name: Madeleine Dean
+Party: D
+Name: Diana DeGette
+Party: D
+Name: Rosa DeLauro
+Party: D
+Name: Suzan DelBene
+Party: D
+Name: Chris Deluzio
+Party: D
+Name: Mark DeSaulnier
+Party: D
+Name: Scott DesJarlais
+Party: R
+Name: Mario Diaz-Balart
+Party: R
+Name: Debbie Dingell
+Party: D
+Name: Lloyd Doggett
+Party: D
+Name: Byron Donalds
+Party: R
+Name: John Duarte
+Party: R
+Name: Jeffrey Duncan
+Party: R
+Name: Neal Dunn
+Party: R
+Name: Chuck Edwards
+Party: R
+Name: Jake Ellzey
+Party: R
+Name: Tom Emmer
+Party: R
+Name: Veronica Escobar
+Party: D
+Name: Anna Eshoo
+Party: D
+Name: Adriano Espaillat
+Party: D
+Name: Ron Estes
+Party: R
+Name: Dwight Evans
+Party: D
+Name: Mike Ezell
+Party: R
+Name: Pat Fallon
+Party: R
+Name: Randy Feenstra
+Party: R
+Name: A. Ferguson
+Party: R
+Name: Teresa Fernandez
+Party: D
+Name: Brad Finstad
+Party: R
+Name: Michelle Fischbach
+Party: R
+Name: Scott Fitzgerald
+Party: R
+Name: Brian Fitzpatrick
+Party: R
+Name: Chuck Fleischmann
+Party: R
+Name: Lizzie Fletcher
+Party: D
+Name: Mike Flood
+Party: R
+Name: Bill Foster
+Party: D
+Name: Valerie Foushee
+Party: D
+Name: Virginia Foxx
+Party: R
+Name: Lois Frankel
+Party: D
+Name: Scott Franklin
+Party: R
+Name: Maxwell Frost
+Party: D
+Name: Russell Fry
+Party: R
+Name: Russ Fulcher
+Party: R
+Name: Matt Gaetz
+Party: R
+Name: Mike Gallagher
+Party: R
+Name: Ruben Gallego
+Party: D
+Name: John Garamendi
+Party: D
+Name: Andrew Garbarino
+Party: R
+Name: Mike Garcia
+Party: R
+Name: Jesús García
+Party: D
+Name: Robert Garcia
+Party: D
+Name: Sylvia Garcia
+Party: D
+Name: Carlos Giménez
+Party: R
+Name: Marie Gluesenkamp Perez
+Party: D
+Name: Jared Golden
+Party: D
+Name: Dan Goldman
+Party: D
+Name: Jimmy Gomez
+Party: D
+Name: Tony Gonzales
+Party: R
+Name: Vicente Gonzalez
+Party: D
+Name: Jenniffer González-Colón
+Party: R
+Name: Robert Good
+Party: R
+Name: Lance Gooden
+Party: R
+Name: Paul Gosar
+Party: R
+Name: Josh Gottheimer
+Party: D
+Name: Kay Granger
+Party: R
+Name: Garret Graves
+Party: R
+Name: Sam Graves
+Party: R
+Name: Mark Green
+Party: R
+Name: Al Green
+Party: D
+Name: Marjorie Greene
+Party: R
+Name: Morgan Griffith
+Party: R
+Name: Raúl Grijalva
+Party: D
+Name: Glenn Grothman
+Party: R
+Name: Michael Guest
+Party: R
+Name: Brett Guthrie
+Party: R
+Name: Harriet Hageman
+Party: R
+Name: Josh Harder
+Party: D
+Name: Andy Harris
+Party: R
+Name: Diana Harshbarger
+Party: R
+Name: Jahana Hayes
+Party: D
+Name: Kevin Hern
+Party: R
+Name: Brian Higgins
+Party: D
+Name: Clay Higgins
+Party: R
+Name: French Hill
+Party: R
+Name: Jim Himes
+Party: D
+Name: Ashley Hinson
+Party: R
+Name: Steven Horsford
+Party: D
+Name: Erin Houchin
+Party: R
+Name: Chrissy Houlahan
+Party: D
+Name: Steny Hoyer
+Party: D
+Name: Valerie Hoyle
+Party: D
+Name: Richard Hudson
+Party: R
+Name: Jared Huffman
+Party: D
+Name: Bill Huizenga
+Party: R
+Name: Wesley Hunt
+Party: R
+Name: Darrell Issa
+Party: R
+Name: Glenn Ivey
+Party: D
+Name: Ronny Jackson
+Party: R
+Name: Jeffrey Jackson
+Party: D
+Name: Jonathan Jackson
+Party: D
+Name: Sheila Jackson Lee
+Party: D
+Name: Sara Jacobs
+Party: D
+Name: John James
+Party: R
+Name: Pramila Jayapal
+Party: D
+Name: Hakeem Jeffries
+Party: D
+Name: Bill Johnson
+Party: R
+Name: Hank Johnson
+Party: D
+Name: Dusty Johnson
+Party: R
+Name: Mike Johnson
+Party: R
+Name: Jim Jordan
+Party: R
+Name: John Joyce
+Party: R
+Name: Dave Joyce
+Party: R
+Name: Sydney Kamlager-Dove
+Party: D
+Name: Marcy Kaptur
+Party: D
+Name: Thomas Kean
+Party: R
+Name: Bill Keating
+Party: D
+Name: Mike Kelly
+Party: R
+Name: Trent Kelly
+Party: R
+Name: Robin Kelly
+Party: D
+Name: Ro Khanna
+Party: D
+Name: Jennifer Kiggans
+Party: R
+Name: Dan Kildee
+Party: D
+Name: Kevin Kiley
+Party: R
+Name: Derek Kilmer
+Party: D
+Name: Andy Kim
+Party: D
+Name: Young Kim
+Party: R
+Name: Raja Krishnamoorthi
+Party: D
+Name: Ann Kuster
+Party: D
+Name: David Kustoff
+Party: R
+Name: Darin LaHood
+Party: R
+Name: Nick LaLota
+Party: R
+Name: Doug LaMalfa
+Party: R
+Name: Doug Lamborn
+Party: R
+Name: Greg Landsman
+Party: D
+Name: Nick Langworthy
+Party: R
+Name: Rick Larsen
+Party: D
+Name: John Larson
+Party: D
+Name: Robert Latta
+Party: R
+Name: Jake LaTurner
+Party: R
+Name: Michael Lawler
+Party: R
+Name: Laurel Lee
+Party: R
+Name: Susie Lee
+Party: D
+Name: Barbara Lee
+Party: D
+Name: Summer Lee
+Party: D
+Name: Debbie Lesko
+Party: R
+Name: Julia Letlow
+Party: R
+Name: Mike Levin
+Party: D
+Name: Ted Lieu
+Party: D
+Name: Zoe Lofgren
+Party: D
+Name: Barry Loudermilk
+Party: R
+Name: Frank Lucas
+Party: R
+Name: Blaine Luetkemeyer
+Party: R
+Name: Anna Paulina Luna
+Party: R
+Name: Morgan Luttrell
+Party: R
+Name: Stephen Lynch
+Party: D
+Name: Nancy Mace
+Party: R
+Name: Seth Magaziner
+Party: D
+Name: Nicole Malliotakis
+Party: R
+Name: Tracey Mann
+Party: R
+Name: Kathy Manning
+Party: D
+Name: Thomas Massie
+Party: R
+Name: Brian Mast
+Party: R
+Name: Doris Matsui
+Party: D
+Name: Lucy McBath
+Party: D
+Name: Kevin McCarthy
+Party: R
+Name: Michael McCaul
+Party: R
+Name: Lisa McClain
+Party: R
+Name: Jennifer McClellan
+Party: D
+Name: Tom McClintock
+Party: R
+Name: Betty McCollum
+Party: D
+Name: Rich McCormick
+Party: R
+Name: Morgan McGarvey
+Party: D
+Name: Jim McGovern
+Party: D
+Name: Patrick McHenry
+Party: R
+Name: Cathy McMorris Rodgers
+Party: R
+Name: Gregory Meeks
+Party: D
+Name: Robert Menendez
+Party: D
+Name: Grace Meng
+Party: D
+Name: Daniel Meuser
+Party: R
+Name: Kweisi Mfume
+Party: D
+Name: Max Miller
+Party: R
+Name: Carol Miller
+Party: R
+Name: Mary Miller
+Party: R
+Name: Mariannette Miller-Meeks
+Party: R
+Name: Cory Mills
+Party: R
+Name: Marcus Molinaro
+Party: R
+Name: John Moolenaar
+Party: R
+Name: Alex Mooney
+Party: R
+Name: Blake Moore
+Party: R
+Name: Barry Moore
+Party: R
+Name: Gwen Moore
+Party: D
+Name: Nathaniel Moran
+Party: R
+Name: Joe Morelle
+Party: D
+Name: Jared Moskowitz
+Party: D
+Name: Seth Moulton
+Party: D
+Name: Jim Moylan
+Party: R
+Name: Frank Mrvan
+Party: D
+Name: Kevin Mullin
+Party: D
+Name: Greg Murphy
+Party: R
+Name: Jerrold Nadler
+Party: D
+Name: Grace Napolitano
+Party: D
+Name: Richard Neal
+Party: D
+Name: Joe Neguse
+Party: D
+Name: Troy Nehls
+Party: R
+Name: Dan Newhouse
+Party: R
+Name: Wiley Nickel
+Party: D
+Name: Donald Norcross
+Party: D
+Name: Ralph Norman
+Party: R
+Name: Eleanor Norton
+Party: D
+Name: Zach Nunn
+Party: R
+Name: Jay Obernolte
+Party: R
+Name: Alexandria Ocasio-Cortez
+Party: D
+Name: William Ogles
+Party: R
+Name: Ilhan Omar
+Party: D
+Name: Burgess Owens
+Party: R
+Name: Frank Pallone
+Party: D
+Name: Gary Palmer
+Party: R
+Name: Jimmy Panetta
+Party: D
+Name: Chris Pappas
+Party: D
+Name: Bill Pascrell
+Party: D
+Name: Donald Payne
+Party: D
+Name: Nancy Pelosi
+Party: D
+Name: Mary Peltola
+Party: D
+Name: Greg Pence
+Party: R
+Name: Scott Perry
+Party: R
+Name: Scott Peters
+Party: D
+Name: Brittany Pettersen
+Party: D
+Name: August Pfluger
+Party: R
+Name: Dean Phillips
+Party: D
+Name: Chellie Pingree
+Party: D
+Name: Stacey Plaskett
+Party: D
+Name: Mark Pocan
+Party: D
+Name: Katie Porter
+Party: D
+Name: Bill Posey
+Party: R
+Name: Ayanna Pressley
+Party: D
+Name: Mike Quigley
+Party: D
+Name: Amata Radewagen
+Party: R
+Name: Delia Ramirez
+Party: D
+Name: Jamie Raskin
+Party: D
+Name: Guy Reschenthaler
+Party: R
+Name: Mike Rogers
+Party: R
+Name: Harold Rogers
+Party: R
+Name: John Rose
+Party: R
+Name: Matt Rosendale
+Party: R
+Name: Deborah Ross
+Party: D
+Name: David Rouzer
+Party: R
+Name: Chip Roy
+Party: R
+Name: Raul Ruiz
+Party: D
+Name: C.A. Dutch Ruppersberger
+Party: D
+Name: John Rutherford
+Party: R
+Name: Patrick Ryan
+Party: D
+Name: Gregorio Sablan
+Party: D
+Name: Maria Salazar
+Party: R
+Name: Andrea Salinas
+Party: D
+Name: Linda Sánchez
+Party: D
+Name: George Santos
+Party: R
+Name: John Sarbanes
+Party: D
+Name: Steve Scalise
+Party: R
+Name: Mary Scanlon
+Party: D
+Name: Jan Schakowsky
+Party: D
+Name: Adam Schiff
+Party: D
+Name: Brad Schneider
+Party: D
+Name: Hillary Scholten
+Party: D
+Name: Kim Schrier
+Party: D
+Name: David Schweikert
+Party: R
+Name: Robert Scott
+Party: D
+Name: David Scott
+Party: D
+Name: Austin Scott
+Party: R
+Name: Keith Self
+Party: R
+Name: Pete Sessions
+Party: R
+Name: Terri Sewell
+Party: D
+Name: Brad Sherman
+Party: D
+Name: Mikie Sherrill
+Party: D
+Name: Mike Simpson
+Party: R
+Name: Elissa Slotkin
+Party: D
+Name: Jason Smith
+Party: R
+Name: Adrian Smith
+Party: R
+Name: Adam Smith
+Party: D
+Name: Christopher Smith
+Party: R
+Name: Lloyd Smucker
+Party: R
+Name: Eric Sorensen
+Party: D
+Name: Darren Soto
+Party: D
+Name: Abigail Spanberger
+Party: D
+Name: Victoria Spartz
+Party: R
+Name: Melanie Stansbury
+Party: D
+Name: Greg Stanton
+Party: D
+Name: Pete Stauber
+Party: R
+Name: Michelle Steel
+Party: R
+Name: Elise Stefanik
+Party: R
+Name: Bryan Steil
+Party: R
+Name: Greg Steube
+Party: R
+Name: Haley Stevens
+Party: D
+Name: Chris Stewart
+Party: R
+Name: Marilyn Strickland
+Party: D
+Name: Dale Strong
+Party: R
+Name: Eric Swalwell
+Party: D
+Name: Emilia Sykes
+Party: D
+Name: Mark Takano
+Party: D
+Name: Claudia Tenney
+Party: R
+Name: Shri Thanedar
+Party: D
+Name: Bennie Thompson
+Party: D
+Name: Glenn Thompson
+Party: R
+Name: Mike Thompson
+Party: D
+Name: Tom Tiffany
+Party: R
+Name: William Timmons
+Party: R
+Name: Dina Titus
+Party: D
+Name: Rashida Tlaib
+Party: D
+Name: Jill Tokuda
+Party: D
+Name: Paul Tonko
+Party: D
+Name: Ritchie Torres
+Party: D
+Name: Norma Torres
+Party: D
+Name: Lori Trahan
+Party: D
+Name: David Trone
+Party: D
+Name: Michael Turner
+Party: R
+Name: Lauren Underwood
+Party: D
+Name: David Valadao
+Party: R
+Name: Jefferson Van Drew
+Party: R
+Name: Beth Van Duyne
+Party: R
+Name: Derrick Van Orden
+Party: R
+Name: Juan Vargas
+Party: D
+Name: Gabe Vasquez
+Party: D
+Name: Marc Veasey
+Party: D
+Name: Nydia Velázquez
+Party: D
+Name: Ann Wagner
+Party: R
+Name: Tim Walberg
+Party: R
+Name: Michael Waltz
+Party: R
+Name: Debbie Wasserman Schultz
+Party: D
+Name: Maxine Waters
+Party: D
+Name: Bonnie Watson Coleman
+Party: D
+Name: Randy Weber
+Party: R
+Name: Daniel Webster
+Party: R
+Name: Brad Wenstrup
+Party: R
+Name: Bruce Westerman
+Party: R
+Name: Jennifer Wexton
+Party: D
+Name: Susan Wild
+Party: D
+Name: Roger Williams
+Party: R
+Name: Brandon Williams
+Party: R
+Name: Nikema Williams
+Party: D
+Name: Frederica Wilson
+Party: D
+Name: Joe Wilson
+Party: R
+Name: Robert Wittman
+Party: R
+Name: Steve Womack
+Party: R
+Name: Rudy Yakym
+Party: R
+Name: Ryan Zinke
+Party: R

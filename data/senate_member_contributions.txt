@@ -1,0 +1,202 @@
+Name: Tammy Baldwin
+Party: D
+Name: John Barrasso
+Party: R
+Name: Michael Bennet
+Party: D
+Name: Marsha Blackburn
+Party: R
+Name: Richard Blumenthal
+Party: D
+Name: Cory Booker
+Party: D
+Name: John Boozman
+Party: R
+Name: Mike Braun
+Party: R
+Name: Katie Britt
+Party: R
+Name: Sherrod Brown
+Party: D
+Name: Ted Budd
+Party: R
+Name: Maria Cantwell
+Party: D
+Name: Shelley Capito
+Party: R
+Name: Benjamin Cardin
+Party: D
+Name: Thomas Carper
+Party: D
+Name: Bob Casey
+Party: D
+Name: Bill Cassidy
+Party: R
+Name: Susan Collins
+Party: R
+Name: Christopher Coons
+Party: D
+Name: John Cornyn
+Party: R
+Name: Catherine Cortez Masto
+Party: D
+Name: Tom Cotton
+Party: R
+Name: Kevin Cramer
+Party: R
+Name: Michael Crapo
+Party: R
+Name: Ted Cruz
+Party: R
+Name: Steve Daines
+Party: R
+Name: Tammy Duckworth
+Party: D
+Name: Richard Durbin
+Party: D
+Name: Joni Ernst
+Party: R
+Name: Dianne Feinstein
+Party: D
+Name: John Fetterman
+Party: D
+Name: Deb Fischer
+Party: R
+Name: Kirsten Gillibrand
+Party: D
+Name: Lindsey Graham
+Party: R
+Name: Charles Grassley
+Party: R
+Name: Bill Hagerty
+Party: R
+Name: Margaret Hassan
+Party: D
+Name: Joshua Hawley
+Party: R
+Name: Martin Heinrich
+Party: D
+Name: John Hickenlooper
+Party: D
+Name: Mazie Hirono
+Party: D
+Name: John Hoeven
+Party: R
+Name: Cindy Hyde-Smith
+Party: R
+Name: Ron Johnson
+Party: R
+Name: Tim Kaine
+Party: D
+Name: Mark Kelly
+Party: D
+Name: John Kennedy
+Party: R
+Name: Angus King
+Party: ID
+Name: Amy Klobuchar
+Party: D
+Name: James Lankford
+Party: R
+Name: Mike Lee
+Party: R
+Name: Ben Luján
+Party: D
+Name: Cynthia Lummis
+Party: R
+Name: Joe Manchin
+Party: D
+Name: Edward Markey
+Party: D
+Name: Roger Marshall
+Party: R
+Name: Mitch McConnell
+Party: R
+Name: Robert Menendez
+Party: D
+Name: Jeff Merkley
+Party: D
+Name: Jerry Moran
+Party: R
+Name: Markwayne Mullin
+Party: R
+Name: Lisa Murkowski
+Party: R
+Name: Christopher Murphy
+Party: D
+Name: Patty Murray
+Party: D
+Name: Jon Ossoff
+Party: D
+Name: Alex Padilla
+Party: D
+Name: Rand Paul
+Party: R
+Name: Gary Peters
+Party: D
+Name: Jack Reed
+Party: D
+Name: Pete Ricketts
+Party: R
+Name: Jim Risch
+Party: R
+Name: Mitt Romney
+Party: R
+Name: Jacky Rosen
+Party: D
+Name: Mike Rounds
+Party: R
+Name: Marco Rubio
+Party: R
+Name: Bernard Sanders
+Party: ID
+Name: Ben Sasse
+Party: R
+Name: Brian Schatz
+Party: D
+Name: Eric Schmitt
+Party: R
+Name: Charles Schumer
+Party: D
+Name: Tim Scott
+Party: R
+Name: Rick Scott
+Party: R
+Name: Jeanne Shaheen
+Party: D
+Name: Kyrsten Sinema
+Party: ID
+Name: Tina Smith
+Party: D
+Name: Debbie Stabenow
+Party: D
+Name: Dan Sullivan
+Party: R
+Name: Jon Tester
+Party: D
+Name: John Thune
+Party: R
+Name: Thom Tillis
+Party: R
+Name: Tommy Tuberville
+Party: R
+Name: Chris Van Hollen
+Party: D
+Name: J.D. Vance
+Party: R
+Name: Mark Warner
+Party: D
+Name: Raphael Warnock
+Party: D
+Name: Elizabeth Warren
+Party: D
+Name: Peter Welch
+Party: D
+Name: Sheldon Whitehouse
+Party: D
+Name: Roger Wicker
+Party: R
+Name: Ron Wyden
+Party: D
+Name: Todd Young
+Party: R

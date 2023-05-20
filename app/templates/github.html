@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>View GitHub Repositories</title>
+</head>
+<body>
+  <h1>Your GitHub Repositories</h1>
+  <ul>
+    {% for repo in repos %}
+    <li>{{ repo }}</li>
+    {% endfor %}
+  </ul>
+</body>
+</html>
