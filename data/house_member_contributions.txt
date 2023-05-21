@@ -424,9 +424,9 @@ Name: Thomas Kean
 Party: R
 Name: Bill Keating
 Party: D
-Name: Mike Kelly
-Party: R
 Name: Trent Kelly
+Party: R
+Name: Mike Kelly
 Party: R
 Name: Robin Kelly
 Party: D
@@ -794,10 +794,10 @@ Name: Shri Thanedar
 Party: D
 Name: Bennie Thompson
 Party: D
-Name: Glenn Thompson
-Party: R
 Name: Mike Thompson
 Party: D
+Name: Glenn Thompson
+Party: R
 Name: Tom Tiffany
 Party: R
 Name: William Timmons

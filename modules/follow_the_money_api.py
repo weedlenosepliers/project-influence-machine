@@ -1,10 +1,11 @@
 """
-This module provides functions to combine and retrieve financial contributions of members of Congress.
+Module provides functions to combine and retrieve financial contributions of members of Congress.
 """
 import os
 import requests
+import dotenv
 
-from .env_loader import get_followthemoney_api_key
+from modules.env_load.env_loader import get_followthemoney_api_key
 
 # Define the API endpoints
 FTM_API_BASE_URL = 'https://api.followthemoney.org/'
@@ -15,6 +16,16 @@ FTM_API_KEY = get_followthemoney_api_key()
 DATA_DIRECTORY = "/workspaces/project-influence-machine/data/"
 
 def get_candidate_contributions(candidate_name, office):
+    """
+    Fetch financial contributions of a candidate from the FollowTheMoney API.
+
+    Args:
+        candidate_name (str): The name of the candidate.
+        office (str): The office ('H' for House or 'S' for Senate).
+
+    Returns:
+        list: A list of financial contributions.
+    """
     endpoint = f"{FTM_API_BASE_URL}/candidate.search.list"
     params = {
         'apikey': FTM_API_KEY,
@@ -43,8 +54,17 @@ def get_candidate_contributions(candidate_name, office):
     return []
 
 def process_members(filename):
+    """
+    Process the members in the given file and calculate their financial contributions.
+
+    Args:
+        filename (str): The name of the file.
+
+    Returns:
+        list: A list of member data.
+    """
     combined_data = []
-    with open(os.path.join(DATA_DIRECTORY, filename), 'r') as file:
+    with open(os.path.join(DATA_DIRECTORY, filename), 'r', encoding='utf-8') as file:
         for line in file:
             # Extract only the name line from the file
             if 'Name:' in line:
@@ -58,6 +78,10 @@ def process_members(filename):
     return combined_data
 
 def main():
+    """
+    Main entry point of the script.
+    Process the House and Senate members, and save the results to files.
+    """
     # Process House members
     house_members = process_members('house_member_contributions.txt')
     with open(os.path.join(DATA_DIRECTORY, 'house_member_contributions_with_finance.txt'), 'w', encoding='utf-8') as file:
@@ -75,4 +99,5 @@ def main():
             file.write("\n")
 
 if __name__ == '__main__':
+    dotenv.load_dotenv()
     main()

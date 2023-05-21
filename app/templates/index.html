@@ -1,11 +1,61 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+
 <head>
-  <title>Administrator Interface</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Project Influence Machine</title>
+
+  <!-- Materialize CSS -->
+  <link rel="stylesheet" href="/static/css/materialize.min.css">
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="/static/css/style.css">
 </head>
+
 <body>
-  <h1>Welcome to the Administrator Interface</h1>
-  <p><a href="{{ url_for('chat') }}">Chat with GPT-3</a></p>
-  <p><a href="{{ url_for('github') }}">View GitHub Repositories</a></p>
+  <nav>
+    <div class="nav-wrapper red">
+      <div class="container">
+        <a href="#" class="brand-logo left">GitHub</a>
+        <ul id="nav-mobile" class="right">
+          <li><a href="https://www.linkedin.com/in/your-linkedin-profile">LinkedIn</a></li>
+          <li><a href="mailto:support@influencemachine.org">Contact</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div class="container">
+    <div class="row">
+      <div class="col s12 m6">
+        <h1 class="center-align">Welcome to Project Influence Machine!</h1>
+      </div>
+      <div class="col s12 m6">
+        <h1 class="right-align">Project Influence Machine</h1>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col s12">
+        <div class="bio">
+          <h2>About Project Influence Machine</h2>
+          <p>
+            Project Influence Machine is an innovative platform that aims to analyze and visualize the financial
+            contributions of members of Congress. Our goal is to provide transparency and insight into the influence
+            of money in politics. Through our data-driven approach, we empower individuals to understand the financial
+            connections between elected officials and special interest groups.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Materialize JavaScript -->
+  <script src="/static/js/materialize.min.js"></script>
+
+  <!-- Custom JavaScript -->
+  <script src="/static/js/script.js"></script>
 </body>
+
 </html>

@@ -55,7 +55,7 @@ def get_members(congress, chamber):
 def print_and_save_current_congress_members(congress_number):
     """
     Fetches and prints the members of the current Congress from the ProPublica Congress API.
-    Also saves the fetched data to text files.
+    Replaces the existing data files with the fetched data.
 
     Args:
         congress_number (int): The number of the current Congress.
@@ -83,7 +83,6 @@ def print_and_save_current_congress_members(congress_number):
             print(f"Party: {member['party']}")
             senate_file_writer.write(f"Name: {member['first_name']} {member['last_name']}\n")
             senate_file_writer.write(f"Party: {member['party']}\n")
-
 
 if __name__ == '__main__':
     # Fetch, print, and save the members of the 118th Congress
