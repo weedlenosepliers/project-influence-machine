@@ -4,7 +4,7 @@
 A fledgling coders' first attempt to bring campaign finance data clarity to the masses
  concerning contributions of campaign finance monies.
 
-My name is Cole! (James is my first name :D ) 
+My name is Cole!
 I am a fledgling coder trying to design an app to gain more information into financial contributions given to politicians, to help folks make a more informed voting decision. 
 
 ## 🌱 Currently Learning
